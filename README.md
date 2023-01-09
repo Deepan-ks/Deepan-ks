@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepan-ks
 - 👀 I’m interested in web application and software developement
-- 🌱 I’m currently learning web developement
+- 🌱 I’m specialized in backend development using java and springboot framework
 - 
 - 📫 Reach me LinkedIn --> https://www.linkedin.com/in/deepan28/
 
